@@ -42,7 +42,7 @@ Example code:
 		...
 		
 		function getTreeIcon() {
-			if ($this->Icon) {
+			if ($this->Status != null) {
 				return 'mysite/images/treeicons/project-' . $this->Status . '.png';
 			}
 			return null;
