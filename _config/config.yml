@@ -1,0 +1,9 @@
+---
+Name: test
+After: 'framework/*','cms/*'
+---
+
+LeftAndMain:
+  extensions:
+    - CustomTreeIconExtension
+

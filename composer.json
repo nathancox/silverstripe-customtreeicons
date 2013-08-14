@@ -1,0 +1,15 @@
+{
+	"name": "nathancox/customtreeicons",
+	"description": "An experiment in allowing site tree icons to be set per-page instead of just per page type.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "sitetree"],
+	"authors": [
+		{
+			"name": "Nathan Cox",
+			"email": "nathan@flyingmonkey.co.nz"
+		}
+	],
+	"require": {
+		"silverstripe/cms": ">=3.1"
+	}
+}
